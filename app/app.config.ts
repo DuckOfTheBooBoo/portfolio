@@ -15,7 +15,7 @@ export default defineAppConfig({
     twitter: 'https://twitter.com/Ajinoomoto',
     linkedin: 'https://www.linkedin.com/in/arajdian-altaf/',
     instagram: 'https://www.instagram.com/arajdian.altaf/',
-    spotify: '-',
+    spotify: 'https://www.spotify.com',
   },
   seo: {
     title: 'Arajdian Altaf\'s Portfolio',
