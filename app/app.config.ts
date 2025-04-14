@@ -1,21 +1,21 @@
 export default defineAppConfig({
   global: {
-    meetingLink: '',
+    meetingLink: 'https://us05web.zoom.us/j/9521537563?pwd=jO1vEAC39DQaXKwdpgjTbtsPDw6aeq.1',
     available: true,
   },
   profile: {
     name: 'Arajdian Altaf',
     job: 'Undergraduate Information Technology Student',
     email: 'arajdianaltaf123@gmail.com',
-    phone: '',
+    phone: '+62XXXXXX',
     picture: 'https://media.licdn.com/dms/image/v2/D5603AQEIiVVddgqDaQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723001600963?e=1749686400&v=beta&t=BhEzL0KVG543aTSnmxU7FINbQrKGWL1-UAlUTvhmD2I',
   },
   socials: {
     github: 'https://github.com/DuckOfTheBooBoo',
     twitter: 'https://twitter.com/Ajinoomoto',
     linkedin: 'https://www.linkedin.com/in/arajdian-altaf/',
-    instagram: '',
-    spotify: '',
+    instagram: 'https://www.instagram.com/arajdian.altaf/',
+    spotify: '-',
   },
   seo: {
     title: 'Arajdian Altaf\'s Portfolio',
