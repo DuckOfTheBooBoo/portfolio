@@ -1,6 +1,6 @@
 export default defineAppConfig({
   global: {
-    meetingLink: 'https://cal.com/hugorcd/15min',
+    meetingLink: '',
     available: true,
   },
   profile: {
@@ -19,8 +19,8 @@ export default defineAppConfig({
   },
   seo: {
     title: 'Arajdian Altaf\'s Portfolio',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    description: 'A website portfolio that showcase about me and my works',
+    url: 'https://arajdian-altaf-portfolio.nuxt.space',
     lang: 'en',
   },
   ui: {
