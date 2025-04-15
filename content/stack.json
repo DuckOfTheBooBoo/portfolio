@@ -21,11 +21,6 @@
       "icon": "custom:vercel"
     },
     {
-      "name": "Arc",
-      "link": "https://arc.net/",
-      "icon": "custom:arc"
-    },
-    {
       "name": "Notion",
       "link": "https://www.notion.so/",
       "icon": "custom:notion"
@@ -34,11 +29,6 @@
       "name": "Figma",
       "link": "https://www.figma.com/",
       "icon": "custom:figma"
-    },
-    {
-      "name": "Photoshop",
-      "link": "https://www.adobe.com/products/photoshop.html",
-      "icon": "custom:photoshop"
     }
   ]
 }
