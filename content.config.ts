@@ -7,15 +7,6 @@ const commonContentSchema = z.object({
   date: z.string().nonempty(),
 })
 
-const commonArticleSchema = z.object({
-  title: z.string().nonempty(),
-  description: z.string().nonempty(),
-  date: z.string().nonempty(),
-  image: z.string().url(),
-  readingTime: z.string().nonempty(),
-  tags: z.array(z.string().nonempty()),
-})
-
 const commonProjectSchema = z.object({
   name: z.string().nonempty(),
   image: z.string().url(),
