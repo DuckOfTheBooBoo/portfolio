@@ -53,16 +53,16 @@ export const collections = {
       schema: commonContentSchema,
     }),
   ),
-  articles_en: defineCollection(
-    asSeoCollection({
-      type: 'page',
-      source: {
-        include: 'en/articles/*.md',
-        prefix: '/en/articles',
-      },
-      schema: commonArticleSchema,
-    }),
-  ),
+  // articles_en: defineCollection(
+  //   asSeoCollection({
+  //     type: 'page',
+  //     source: {
+  //       include: 'en/articles/*.md',
+  //       prefix: '/en/articles',
+  //     },
+  //     schema: commonArticleSchema,
+  //   }),
+  // ),
   projects_en: defineCollection(
     asSeoCollection({
       type: 'data',
